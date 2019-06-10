@@ -1,7 +1,9 @@
 ## Building a RestFul Service
-This is a microservice that returns stock ticker prices
+This microservice is built to return stock ticker prices
 
-This RestFul api was built with node.js, express.js kindly drop suggestions and tips:
+This RestFul api was built with node.js and express.js. 
+External Api used: Investors Exchange (IEX) Trading API.  
+kindly drop suggestions and tips:
 
 ### `Installation`
 
